@@ -1,0 +1,8 @@
+{
+  "name" : "lib",
+  "version" : "0.1.0",
+  "description" : "lazy loads javascript from the local lib directory",
+  "devDependencies" : {
+    "mocha" : "*"
+  }
+}
