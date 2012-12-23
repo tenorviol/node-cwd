@@ -1,4 +1,4 @@
-node-lib
+node-cwd
 ========
 
 
