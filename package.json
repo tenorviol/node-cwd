@@ -1,7 +1,7 @@
 {
-  "name" : "lib",
+  "name" : "cwd",
   "version" : "0.1.0",
-  "description" : "lazy loads javascript from the local lib directory",
+  "description" : "lazy loads modules from the current working directory",
   "devDependencies" : {
     "mocha" : "*"
   }
